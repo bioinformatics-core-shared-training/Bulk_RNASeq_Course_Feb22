@@ -32,7 +32,7 @@ Whilst we have run this course for several years, we are still learning how to
 teach it remotely and this is the first time split over three weeks.  
 Please bear with us if there are any technical hitches, and
 be aware that timings for different sections laid out in the schedule below may
-not be adhered to. There may be some necessity to make adjusments to the course
+not be adhered to. There may be some necessity to make adjustments to the course
 as we go.
 
 > ## Prerequisites
@@ -59,7 +59,7 @@ as they can.
 ## Introduce Yourself
 
 There is another Google Doc
-[Google Document](https://docs.google.com/document/d/16W723pDWTUAsTmsjF29L3bOTxIv7i3NVAr1ST1ugPfk/edit) 
+[Google Document](https://docs.google.com/document/d/16W723pDWTUAsTmsjF29L3bOTxIv7i3NVAr1ST1ugPfk/edit)
 Please write a couple sentences here to introduce yourself to the class, tell
 us a bit about your background and what you hope to get out of this course.  If
 you are a student or staff at the University of Cambridge, tell us which
