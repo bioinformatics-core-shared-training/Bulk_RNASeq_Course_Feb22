@@ -105,18 +105,18 @@ Methods](Bulk_RNAseq_Course_Base/Markdowns/01_Introduction_to_RNAseq_Methods.htm
 10:15 - 11:15 [Raw read file format and
 QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html)  - Jon Price
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.pdf))   
-  <!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.pdf))   -->
+  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.pdf))   -->
 
 11:15 - 12:45 [Short read alignment with
 HISAT2](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_introduction.html) - Jon Price  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.html)  ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.pdf))    
-  <!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.pdf))  -->
+  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/03_Alignment_with_HISAT2_practical.Solutions.pdf))
 
 12:45 - 13:45 Lunch
 
 13:45 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_introduction.html) - Jon Price  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.pdf))  
-  <!--  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.pdf)) -->
+  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_QC_of_aligned_reads_practical.Solutions.pdf))
 
 15:30 - 17:00 [Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_introduction.html) - Ashley D Sawle  
     - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.html)  ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Quantification_with_Salmon_practical.pdf))  
