@@ -14,6 +14,7 @@
 * Chloe Pacyna - Welcome Sanger Institute
 * Sankari Nagarajan - University of Manchester
 * Carolin Sauer - Brenton Group, Cancer Research UK Cambridge Institute
+* Tom Smith - Bioinformatics Faciltiy, MRC Toxicology Unit, Cambridge
 
 
 ## Outline
