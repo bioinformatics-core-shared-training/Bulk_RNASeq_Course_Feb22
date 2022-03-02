@@ -149,7 +149,7 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 ### Day 3
 
-9.30 - 10.00 - [Recap of Day 1 and 2](https://docs.google.com/presentation/d/1XBfQ7ryZlLUuFOBEtwmmuzbB4sp_efaHvSi6Fab7sPs/edit?usp=sharing) - Ashley D Sawle
+9.30 - 10.00 - [Recap of Day 1 and 2](https://docs.google.com/presentation/d/15Nz5Kv5uMOG96ai6cZ06igMuYlCd3Rm6Ls071nOMZyc/edit?usp=sharing) - Ashley D Sawle
 
 10.00 - 12:00 - [Differential Expression for RNA-seq - Part 2](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.pdf)) - Abbi Edwards   
   <!--   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.pdf))  
