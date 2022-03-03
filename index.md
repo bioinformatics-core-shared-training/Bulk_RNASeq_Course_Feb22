@@ -145,16 +145,16 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 15:45 - 17:00 - [Differential Expression for RNA-seq - Part 1](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.html)
 ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part1.pdf)) - Abbi Edwards
-- [Live script](live_scripts/DESeq2__part1.R)
+- [Live script](live_scripts/DESeq2_part1.R)
 
 ### Day 3
 
 9.30 - 10.00 - [Recap of Day 1 and 2](https://docs.google.com/presentation/d/15Nz5Kv5uMOG96ai6cZ06igMuYlCd3Rm6Ls071nOMZyc/edit?usp=sharing) - Ashley D Sawle
 
 10.00 - 12:00 - [Differential Expression for RNA-seq - Part 2](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2_part2.pdf)) - Abbi Edwards   
-  <!--   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.pdf))  
-     - [live script](live_scripts/DeSeq2_2.R)
-     - [extra models plots](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Expl_all.pdf) -->
+   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/10_DE_analysis_with_DESeq2.Solutions.pdf))  
+     - [live script](live_scripts/DESeq2_part2.R)
+     - [extra models plots](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Expl_all.pdf)
 
 12.00 - 12.45 [Annotation and Visualisation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html) - Ashley D Sawle
 
